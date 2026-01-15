@@ -218,7 +218,7 @@ const App = () => {
         <div className="grid grid-cols-2 gap-4">
           <div className="bg-white p-3 rounded-lg border border-red-100 text-center">
             <p className="text-xs text-gray-500 mb-1">সৃজনশীল (CQ)</p>
-            <p className="text-2xl font-bold text-red-600">১৬ <span className="text-sm text-gray-400">/ ৫০</span></p>
+            <p className="text-2xl font-bold text-red-600">১৭ <span className="text-sm text-gray-400">/ ৫০</span></p>
             <p className="text-[10px] text-red-500 font-medium">পাস মার্ক</p>
           </div>
           <div className="bg-white p-3 rounded-lg border border-red-100 text-center">
